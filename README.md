@@ -10,22 +10,16 @@ A simple Streamlit app to check the strength of a password based on multiple sec
 📌 Installation
 1️⃣ Clone the repository:
 
-sh
-Copy
-Edit
+
 git clone https://github.com/your-username/password-strength-meter.git
 cd password-strength-meter
 2️⃣ Install dependencies:
 
-sh
-Copy
-Edit
+
 pip install -r requirements.txt
 3️⃣ Run the Streamlit app:
 
-sh
-Copy
-Edit
+
 streamlit run app.py
 🔧 Usage
 Open the app in your browser after running it.
